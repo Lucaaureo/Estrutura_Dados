@@ -1,4 +1,5 @@
 #include <stdio.h>
+// Aula 3 exercicio
 
 #define TAM 3
 
@@ -60,4 +61,5 @@ void multiplicarM(int A[TAM][TAM], int B[TAM][TAM], int C[TAM][TAM]){
     imprimirM(matrizProduto, 'P');
 
  return 0;   
+
 }
